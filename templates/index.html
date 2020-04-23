@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Job Consultancy</title>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+    <!-- Bootstrap CSS from a CDN. This way you don't have to include the bootstrap file yourself -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+    <!-- My own stylesheet -->
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/animate.css') }}" rel="stylesheet">
+  </head>
+  <body>
+    <header class="consultancy text-left text-white d-flex">
+      <div class="container my-auto">
+        <div class="row">
+          <div class="col-lg-12 my-auto">
+            <h1 class="text-uppercase faded animated infinite bounce">
+              <strong>Job Consultancy Welcomes you.<br></strong>Guidance towards the Career.<br><!-- Just Upload your Resume and response would be provided. -->
+            </h1>
+            <hr>
+          </div>
+          <div class="col-lg-12 my-auto">
+            <!-- <a href="">
+            <button class="btn btn-primary btn-xl">Find Out More</button>
+            <a href="#link" class="btn btn-primary" </a> -->
+              <a href="{{url_for ('next')}}" class="btn btn-primary btn-xl" role="button">Find Out More</a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+  </body>
+
+</html>

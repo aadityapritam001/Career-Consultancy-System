@@ -1,0 +1,66 @@
+
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+
+  max-width: 195px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+
+/*.faded {
+  color: rgba(255, 255, 255, 0.2); 
+}*/
+
+header.consultancy {
+  background-position: center;
+  background-image: url("temp2.jpg") ;
+  background-size: cover;
+   	 /*background-color: rgba(41,43,44,0.5)*/
+  height: 100%;
+}
+
+header.consultancy hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+  margin-left: 0px;
+  /*margin-right: 25px;*/
+}
+
+header.consultancy h1 {
+  font-size: 2rem;
+  /*text-align: justify-all;*/
+  /*ont-style:*/ 
+  color: darkorange	; 
+}
+
+.btn {
+  font-weight: 900;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
+  

@@ -1,0 +1,1194 @@
+id,categories1,categories2,categories3,categories4,categories5,Job_title
+204934,.net,c#,javascript,sql,apache-spark,Software Developer
+205331,java,c#,.net,artificial-intelligence,chatbot,Software Developer
+143916,c#,.net,,,,Software Developer
+203765,c#,.net,asp.net,machine-learning,azure,Software Developer
+201438,python-3.x,c++,.net,c#,,Software Developer
+199120,c#,.net,design,,,Artificial Intelligence
+204310,c#,.net,amazon-web-services,agile,matlab,Software Developer
+206152,c#,.net,sql,javascript,angular,Software Developer
+204278,scrum,cloud,azure,.net,ai,Cloud Engineer
+204926,hadoop,.net,java,sql,vba,Software Developer
+203110,.net,typescript,blockchain,machine-learning,angular,Software Developer
+194866,c#,automation,.net,software-design,matlab,Software Developer
+200052,scikit-learn,python,machine-learning,r,statistics,Data Scientist
+196670,hadoop,amazon-web-services,apache-spark,hive,etl,Data Engineer
+206706,java,python,sql,,,Software Developer
+163093,java,c#,spring,elasticsearch,angularjs,Software Developer
+206038,java,python,sql,,,Software Developer
+206796,machine-learning,python,spark,scala,,Data Scientist
+148168,c#,scala,reactjs,microservices,parallel-processing,Big Data Developer
+198525,amazon-web-services,cloud,lambda,nosql,javascript,Cloud Engineer
+207016,mysql,json,mongodb,xml,sql-server,Data Architect
+198470,c#,aws,iot,elasticsearch,,Software Developer
+185432,agile,apache,c#,hadoop,java,Software Developer
+194073,python,c++,sql,c,linux,Machine Learning Engineer
+160945,ruby-on-rails,javascript,go,elasticsearch,postgresql,Software Developer
+200577,selenium,automated-tests,selenium-webdriver,artificial-intelligence,,Artificial Intelligence
+204606,sql,sql-server,data-warehouse,business-intelligence,,Software Developer
+202161,node.js,reactjs,postgresql,typescript,lambda,Data Engineer
+198692,ssis,sql-server,reporting-services,data-warehouse,python,Data Engineer
+184364,elasticsearch,angular,c#,sql-server,javascript,Software Developer
+194487,mongodb,elasticsearch,angularjs,javascript,c#,Full Stack Developer 
+199333,spring,spring-mvc,java,javascript,machine-learning,Java Developer
+159231,postgresql,go,cassandra,docker,node.js,Backend Developer
+206448,data-warehouse,nosql,sql,oracle11g,hadoop,Data Architect
+203447,machine-learning,algorithm,ruby-on-rails,,,Machine Learning Engineer
+204847,qa,testing,software-quality,analysis,validation,Quality Assurance Analyst 
+198278,python,machine-learning,pyspark,data-science,,Data Scientist
+198279,python,machine-learning,pyspark,data-science,,Data Scientist
+198265,c#,webgl,three.js,d3.js,opengl,Software Developer
+205210,sql,python,ssis,sysadmin,,Data Architect
+202588,python,linux,machine-learning,gpu,keras,Data Scientist
+207354,java,python,c++,,,Machine Learning Engineer
+191001,java,machine-learning,docker,kotlin,bamboo,Backend Developer
+202670,c#,model-view-controller,xamarin,,,Full Stack Developer 
+200549,python,data-science,machine-learning,,,Machine Learning Engineer
+173255,javascript,go,reactjs,apache-kafka,hbase,Software Developer
+159863,python-3.x,numpy,pandas,functional-programming,flask,Python Developer
+206587,amazon-web-services,mysql,etl,reporting,validation,Data Engineer
+154735,go,cassandra,distributed-computing,java,amazon-web-services,Data Engineer
+208102,python,etl,amazon-web-services,docker,sql,Data Engineer
+207192,java,sql,machine-learning,hadoop,,Data Engineer
+207900,reactjs,typescript,d3.js,ecmascript-6,redux-observable,Front End Developer
+197120,ruby-on-rails,postgresql,python,amazon-s3,hive,Data Engineer
+199345,hadoop,linux,bigdata,python,hiveql,Big Data Developer
+204489,hadoop,apache-spark,etl,,,Big Data Developer
+204279,python,sql,snowflake-datawarehouse,etl,,Data Engineer
+201782,python,sql,pandas,numpy,scipy,Data Scientist
+204280,java,algorithm,machine-learning,real-time,,Software Developer
+201634,java,python,r,machine-learning,scala,Data Scientist
+208124,python,java,cloud,statistics,scala,Backend Developer
+207914,node.js,cloud,amazon-web-services,elasticsearch,postgresql,Backend Developer
+201783,tdd,sql,ruby,git,java,Data Engineer
+169863,java,elasticsearch,heroku,solr,mapreduce,Java Developer
+198639,r,machine-learning,,,,Data Scientist
+208554,c#,.net,agile,asp.net,sql-server,Software Developer
+201817,delphi,c#,c++,machine-learning,data-visualization,Data Analyst
+169340,c++,qt,3d,python,computer-vision,Software Developer
+205105,machine-learning,c++,c#,image-processing,motion,Software Developer
+201683,machine-learning,algorithm,c++,openrave,ros,Software Developer
+206755,c++,math,algorithm,optimization,data-analysis,Data Analyst
+202708,c++,robotics,computer-vision,ros,3d,Software Developer
+202703,c++,robotics,computer-vision,ros,3d,Software Developer
+203424,machine-learning,c++,python,opencv,slam,Cloud Engineer
+161076,c++,qt,opengl,deep-learning,image-processing,Software Developer
+195710,c++,c,virtual-reality,simd,,Software Developer
+199035,c++,,,,,Machine Learning Engineer
+206020,c++,qt,machine-learning,,,Software Developer
+205189,node.js,c++,typescript,d3.js,angular,Software Developer
+204136,qa,jira,testing,mobile,google-chrome-devtools,Quality Assurance Analyst 
+206866,python,machine-learning,,,,Machine Learning Engineer
+204775,machine-learning,algorithm,c++,python,,Data Scientist
+140607,c++,qt,,,,Software Developer
+171421,c++,python,qt,,,Software Developer
+195467,machine-learning,deep-learning,pytorch,python,opencv,Machine Learning Engineer
+189941,c++,stl,multithreading,machine-learning,,Software Developer
+169791,java,backend,database,apache-kafka,amazon-web-services,Data Engineer
+166548,python,mongodb,openstack,numpy,scipy,Python Developer
+206219,python,hadoop,bigdata,scala,data-warehouse,Data Engineer
+207492,r,sql,data-analysis,statistics,tableau,Data Analyst
+203689,javascript,java,visualforce,salesforce,apex,Salesforce Developer
+205720,r,python,etl,bash,sql,Data Engineer
+208438,python,r,etl,java,apache-kafka,Data Engineer
+207947,ruby-on-rails,go,elixir,mysql,elasticsearch,DevOps Engineer
+202397,java,scala,python,aws,spark,Software Developer
+194991,r,python,project-management,machine-learning,data-analysis,Data Scientist
+201382,artificial-intelligence,deep-learning,tensorflow,python,etl,Data Scientist
+205151,java,selenium,scala,mongodb,elasticsearch,Quality Assurance Analyst 
+209807,django,python,postgresql,reactjs,nosql,Software Developer
+207284,amazon-web-services,linux,python,hadoop,,Cloud Engineer
+207244,amazon-web-services,linux,elasticsearch,docker,continuous-integration,DevOps Engineer
+208559,python,spacy,elasticsearch,amazon-web-services,nlp,Python Developer
+207850,java,java-ee,spring,,,Software Developer
+207319,qa,testing,end-to-end,sdlc,,Quality Assurance Analyst 
+205040,qa,testing,automation,visual-studio,sdlc,Quality Assurance Analyst 
+201824,python,cassandra,mongodb,hadoop,java,Data Engineer
+204837,scala,hadoop,go,r,apache-spark,Data Scientist
+202914,apache-kafka,amazon-kinesis,google-bigquery,amazon-redshift,postgresql,Data Engineer
+194042,python,javascript,bigdata,cloud,,Software Developer
+170921,javascript,amazon-web-services,scala,python,spark-dataframe,Software Developer
+162146,salesforce,apex,sql,javascript,html,Salesforce Developer
+206331,machine-learning,python,apache-kafka,apache-spark,,Data Scientist
+205122,druid,amazon-kinesis,hadoop,apache-spark,amazon-web-services,Data Engineer
+207118,sql,,,,,Big Data Developer
+201248,java,python,scalability,machine-learning,c++,Software Developer
+198634,hadoop,python,nosql,,,Data Engineer
+195518,scala,scalability,scala-collections,functional-programming,imperative-programming,Data Engineer
+202371,amazon-web-services,python,java,hadoop,postgresql,Data Engineer
+205862,ggplot,dplyr,numpy,sql,hive,Data Scientist
+172842,oracle,mysql,postgresql,mongodb,elasticsearch,Data Architect
+203060,java,scala,aws,python,rest,Software Developer
+201965,hadoop,python,apache-spark,,,Data Engineer
+201966,hadoop,python,apache-spark,,,Data Engineer
+204675,java,python,sql,,,Software Developer
+194284,python,rest,amazon-web-services,docker,api,Backend Developer
+150898,apache-spark,apache-kafka,druid,bigdata,java,Big Data Developer
+208666,java,python,sql,,,Software Developer
+198218,hadoop,apache-spark,python,hbase,apache-kafka,Big Data Developer
+201349,sql,google-bigquery,amazon-redshift,python,java,Data Engineer
+200305,java,microservices,spring,elasticsearch,,Java Developer
+208544,java,java-ee,elasticsearch,mysql,rest,Java Developer
+204786,java,python,sql,,,Machine Learning Engineer
+201848,java,python,sql,,,Software Developer
+208200,python,amazon-web-services,saas,elasticsearch,,Software Developer
+196328,php,mysql,olap,google-analytics,tableau,Data Scientist
+208193,java,python,sql,,,Software Developer
+208194,java,python,sql,,,Software Developer
+186359,user-interface,rest,apex,salesforce-lightning,soap,Salesforce Developer
+208192,java,python,sql,,,Software Developer
+208198,java,python,sql,,,Software Developer
+208201,qa,testing,automation,oop,sql,Quality Assurance Analyst 
+200126,nlp,python,machine-learning,tensorflow,pyspark,Data Scientist
+208424,python,java,sql,,,Data Engineer
+207752,machine-learning,networking,web-services,,,Software Developer
+206757,python,apache-spark,hadoop,scala,druid,Data Engineer
+206013,machine-learning,web-services,,,,Software Developer
+204714,apache-spark,scala,tableau,kubernetes,amazon-quicksight,Data Scientist
+200330,java,python,sql,,,Machine Learning Engineer
+208687,r,machine-learning,d3.js,,,Data Scientist
+203390,agile,scala,salesforce,python,functional-programming,Software Developer
+198477,scala,nosql,amazon-web-services,java,apache-spark,Software Developer
+188627,java,scala,apache-spark,,,Data Engineer
+135662,python,hadoop,postgresql,nginx,amazon-web-services,DevOps Engineer
+208505,sql,mongodb,backend,,,Backend Developer
+153189,python,rest,amazon-web-services,docker,api,Backend Developer
+207274,scala,python,mysql,nosql,kafka,Big Data Developer
+166788,c#,java,scala,hadoop,apache-kafka,Software Developer
+202815,sql,amazon-redshift,python,ruby,etl,Data Scientist
+199249,pyspark,hadoop,python,amazon-web-services,tensorflow,Data Scientist
+192979,hadoop,spark,,,,Data Engineer
+165789,python,elasticsearch,django,postgresql,redis,Backend Developer
+200241,java,less,agile,,,Salesforce Developer
+208686,testing,design,java,hadoop,,Software Developer
+157331,java,objective-c,swift,nativeapplication,mobile,Java Developer
+147629,python,postgresql,regex,excel,python-2.7,Software Developer
+155355,python,etl,,,,Data Engineer
+155988,etl,python,,,,Data Engineer
+158011,python,postgresql,amazon-web-services,geopandas,etl,Data Engineer
+148433,python,sql,amazon-web-services,amazon-ec2,etl,Data Engineer
+144460,etl,sql,hadoop,c#,.net,Big Data Developer
+153952,scala,java,cassandra,data-warehouse,etl,Data Engineer
+128209,hadoop,etl,machine-learning,sql,java,Data Engineer
+99712,etl,sql,apache-spark,java,,Software Developer
+111248,etl,python,hadoop,mapreduce,hive,Data Scientist
+135500,python,etl,qlikview,sql,database,Data Engineer
+154279,apache-spark,scala,sql,etl,mapreduce,Data Engineer
+157088,business-intelligence,data-warehouse,etl,amazon-redshift,amazon-web-services,Data Engineer
+156722,python,hadoop,scala,etl,apache-spark,Data Scientist
+157837,sql,apache-spark,etl,hadoop,mysql,Data Engineer
+156689,python,apache-spark,hadoop,nosql,etl,Data Engineer
+155665,apache-spark,scalability,ruby-on-rails,etl,bigdata,Data Engineer
+154344,python,java,etl,scala,luigi,Data Engineer
+152674,etl,hadoop,apache-kafka,apache-storm,apache-spark,Big Data Developer
+159368,algorithm,machine-learning,qa,computer-vision,,Machine Learning Engineer
+138779,java,camel,spring,jenkins,spark,Java Developer
+159008,.net,jenkins,devops,git,,DevOps Engineer
+151923,apache-spark,java,elasticsearch,apache-kafka,database,Data Engineer
+137601,hadoop,apache-spark,java,nosql,bigdata,Big Data Developer
+132762,java,web-services,rest,esb,talend,Java Developer
+145329,sql,java,ruby,python,hadoop,Data Engineer
+137058,hadoop,java,scala,apache-spark-sql,sql,Big Data Developer
+144652,machine-learning,r,python,analytics,data-science,Data Scientist
+145554,c++,c,boost,matlab,opencv,Software Developer
+141462,java,softwareentwickler,,,,Java Developer
+140325,python,postgresql,hadoop,amazon-web-services,docker,Machine Learning Engineer
+139732,java,apache,spring,angularjs,bigdata,Software Developer
+120745,java,scala,jvm,hadoop,sql,Java Developer
+158825,php,mysql,javascript,html,salesforce,Salesforce Developer
+155998,.net,javascript,cloud,scala,machine-learning,Data Scientist
+159212,hadoop,apache-spark,google-bigquery,amazon-redshift,voldemort,Data Engineer
+151449,hadoop,python,nosql,java,,Data Engineer
+152785,hadoop,python,datawarehousing,tableau,dimensional-modeling,Data Engineer
+159560,scala,hadoop,amazon-web-services,sql,,Data Engineer
+159213,hadoop,java,sql,java-ee,linux,Cloud Engineer
+126595,javascript,elasticsearch,amazon-s3,apache-spark,hadoop,Software Developer
+155156,machine-learning,python,nlp,,,Data Scientist
+132745,bigdata,hadoop,hive,apache-pig,apache-kafka,Data Engineer
+155182,java,java-ee,javascript,web,bigdata,Software Developer
+156345,linux,amazon-web-services,mongodb,ansible,elasticsearch,DevOps Engineer
+152684,hadoop,nosql,apache-spark,apache-storm,elastic,Software Developer
+155153,salesforce,apex,visualforce,java,.net,Salesforce Developer
+156122,python,java,amazon-web-services,bigdata,mysql,Big Data Developer
+147476,sql,hadoop,python,java,spark,Data Engineer
+144434,hadoop,hdfs,apache-spark,informatica,machine-learning,Data Engineer
+156770,java,,,,,Data Engineer
+158593,machine-learning,reactjs,apache-spark,hadoop,tensorflow,Software Developer
+154101,database,sql-server,ssis,architecture,,Data Architect
+154109,amazon-web-services,cloud,hadoop,,,Software Developer
+157684,oracle,sql,plsql,database,sysadmin,Big Data Developer
+132746,azure,aws,pentaho,talend,cloudera,Cloud Engineer
+157229,datawarehouse,,,,,Software Developer
+158816,hadoop,bigdata,apache-spark,amazon-web-services,,Data Engineer
+142103,python,apache-spark,hadoop,,,Data Engineer
+154115,amazon-web-services,cloud,hadoop,,,Software Developer
+154114,amazon-web-services,cloud,hadoop,c++,python,Software Developer
+152886,web-services,hadoop,bigdata,java,java-ee,Big Data Developer
+154753,apache-spark,java,hadoop,hbase,hdfs,Data Engineer
+149637,database-administration,c#,sql,javascript,microsoft,Big Data Developer
+155464,scala,hadoop,python,apache-spark,,Software Developer
+157110,hadoop,sql,bash,python,aws,Data Engineer
+155395,clojure,amazon-web-services,sql,nosql,docker,Data Engineer
+153566,scala,python,java,spark,pyspark,Data Engineer
+205429,r,machine-learning,python,deep-learning,bigdata,Data Scientist
+172697,java,mongodb,spring-boot,elasticsearch,microservices,Backend Developer
+205536,r,java,python,c++,sql,Artificial Intelligence
+194895,data-warehouse,sql,etl,python,shiny,Data Scientist
+207630,mysql,php,java,ruby,,Data Scientist
+166424,cloud,amazon-web-services,elasticsearch,php,architecture,Cloud Engineer
+200386,java,data-pipeline,python,scalability,ab-testing,Software Developer
+206863,python,sql,javascript,tableau,ab-testing,Data Analyst
+206244,sql,qa,database,python,javascript,Quality Assurance Analyst 
+207465,qa,automation,python,docker,,Software Developer
+199355,selenium-webdriver,selenium,automated-tests,php,,Quality Assurance Analyst 
+204480,qa,selenium-webdriver,salesforce,,,Quality Assurance Analyst 
+202869,qa,java,automation,nightwatch.js,selenium,Quality Assurance Analyst 
+204814,qa,testing,automated-tests,,,Quality Assurance Analyst 
+200632,qa,ios,android,,,Quality Assurance Analyst 
+202175,java,xml,sql,selenium,soapui,Quality Assurance Analyst 
+202071,qa,testing,javascript,testrail,,Quality Assurance Analyst 
+162673,automation,testing,python,unit-testing,performance,Software Developer
+186792,automation,qa,python,,,Quality Assurance Analyst 
+200148,automation,testing,qa,,,Software Developer
+204590,automation,testing,automated-tests,,,DevOps Engineer
+204023,python,testing,sql,,,Data Engineer
+201509,java,cloud,continuous-integration,continuous-delivery,testing,Java Developer
+206930,scala,apache-spark,machine-learning,algorithm,statistics,Machine Learning Engineer
+206655,python,java,amazon-web-services,docker,sql,Java Developer
+205400,apache-spark,scala,amazon-redshift,google-bigquery,data-science,Data Engineer
+203407,amazon-web-services,chef,puppet,continuous-integration,agile,DevOps Engineer
+138196,machine-learning,deep-learning,tensorflow,scikit-learn,python,Machine Learning Engineer
+207901,kubernetes,openfaas,docker,go,python,Data Scientist
+207899,go,kubernetes,docker,git,,Data Scientist
+203518,statistics,r,scala,machine-learning,data-science,Machine Learning Engineer
+203523,scala,functional-programming,java,apache-spark,kubernetes,Data Engineer
+155246,machine-learning,algorithm,c,java,python,Software Developer
+199818,hadoop,scala,python,bigdata,,Data Engineer
+155241,machine-learning,r,unity3d,,,Data Scientist
+140904,python,pandas,data-modeling,etl,postgresql,Data Engineer
+202910,multiprocessing,jupyter,numpy,pandas,python,Data Scientist
+140635,reactjs,javascript,ecmascript-6,redux-saga,redux,Front End Developer
+15018,salesforce,api,java,json,,Salesforce Developer
+199604,python,medical,data-science,,,Data Scientist
+206676,python,pyspark,scala,git,machine-learning,Data Scientist
+205825,r,machine-learning,python,sql,apache-spark,Data Scientist
+202776,r,machine-learning,algorithm,,,Data Scientist
+202399,r,python,sql,jupyter,,Data Scientist
+205878,r,python,machine-learning,data-science,github,Data Scientist
+186080,python,elasticsearch,rabbitmq,docker,redis,Python Developer
+133248,python,node.js,rust,cassandra,elasticsearch,Software Developer
+158586,ember.js,node.js,sass,clojure,javascript,Big Data Developer
+206168,java,javascript,java-ee,angular,salesforce,Software Developer
+205698,spark,kafka,emr,python,hadoop,Data Engineer
+199278,hadoop,apache-spark,apache-kafka,hive,etl,Data Engineer
+199960,java,python,sql,,,Java Developer
+208696,python,apache-spark,machine-learning,sql,hive,Data Engineer
+202838,docker,kubernetes,apache-kafka,devops,elasticsearch,DevOps Engineer
+206070,r,machine-learning,python,,,Data Scientist
+204101,python,saas,sql,bigdata,etl,Backend Developer
+204099,python,saas,elasticsearch,serverless-framework,solr,Software Developer
+204224,python,docker,rabbitmq,elasticsearch,amazon-web-services,Backend Developer
+206045,python,r,sql,machine-learning,algorithm,Machine Learning Engineer
+208079,consumer,aws,,,,Cloud Engineer
+206683,reactjs,javascript,python,plotly,,Front End Developer
+198054,amazon-web-services,machine-learning,agile,,,Cloud Engineer
+170323,java,amazon-web-services,node.js,spring-mvc,,Software Developer
+142067,php,soap,mongodb,mysql,bigdata,Backend Developer
+197855,amazon-web-services,nosql,sql,amazon-dynamodb,mongodb,Cloud Engineer
+205976,java,spring,java-ee,javascript,angular,Java Developer
+204668,java,elasticsearch,hbase,python,rabbitmq,Java Developer
+196926,python,apache-spark,postgresql,tensorflow,elasticsearch,Data Engineer
+201455,angularjs,java,spring-boot,microservices,unix,Big Data Developer
+206924,hadoop,scala,nosql,,,Big Data Developer
+196089,database,sql,hadoop,python,nosql,Data Engineer
+206985,sql,luigi,airflow,apache-spark,c#,Data Engineer
+208085,java,python,sql,mysql,amazon-redshift,Data Engineer
+207750,machine-learning,r,,,,Software Developer
+140223,c++,python,c,linux,,Software Developer
+208026,scala,php,agile,ruby,databricks,DevOps Engineer
+199073,apache-spark,bigdata,etl,,,Software Developer
+199065,agile,scala,hbase,apache-spark,,Software Developer
+203474,database,etl,tableau,,,Data Engineer
+202820,scala,kafka,apache-spark,cassandra,aerospike,Big Data Developer
+199075,scala,apache-spark,,,,Software Developer
+199069,agile,scala,hbase,apache-spark,,Software Developer
+206911,reactjs,three.js,d3.js,redux,css,Front End Developer
+200020,scala,apache-spark,google-cloud-platform,apache-kafka,continuous-integration,Data Engineer
+206944,apache-spark,scala,amazon-web-services,,,Data Engineer
+199064,agile,scala,hbase,apache-spark,,Software Developer
+199070,agile,scala,hbase,apache-spark,,Software Developer
+206859,c#,asp.net,sql,,,Software Developer
+206143,apache-spark,hadoop,java,sql,docker,Software Developer
+207822,java,,,,,Software Developer
+199074,apache-spark,bigdata,etl,,,Software Developer
+203756,rabbitmq,kotlin,cassandra,elasticsearch,akka,Java Developer
+207724,machinelearning,apachespark,rserver,paas,javascript,Full Stack Developer 
+201510,hadoop,etl,java,python,jenkins,Data Engineer
+207773,data-science,r,python,amazon-web-services,,Data Scientist
+197918,sql,atl,aws,python,,Data Engineer
+201269,hadoop,python,hive,java,apache-spark,Data Engineer
+202470,spring,boot,java,,,Java Developer
+170590,signal-processing,deep-learning,machine-learning,acoustics,numerical-methods,Machine Learning Engineer
+205865,javascript,reactjs,node.js,redux,mongodb,Full Stack Developer 
+206112,java,scala,apache-spark,hadoop,python,Java Developer
+206011,r,machine-learning,python,,,Data Scientist
+166878,sql,python,amazon-web-services,apache-spark,hadoop,Data Engineer
+200032,cloud,python,bigdata,apache-spark,,Software Developer
+203446,apache-spark,hadoop,java,,,Data Engineer
+202944,hadoop,apache,bigdata,,,Big Data Developer
+196532,r,machine-learning,python,deep-learning,dynamic,Data Scientist
+147424,javascript,html,css,reactjs,json,Software Developer
+201670,java,python,sql,,,Java Developer
+201388,java,aws,machine-learning,amazon-web-services,,Java Developer
+206692,java,angularjs,javascript,apache-spark,,Full Stack Developer 
+198528,python,pandas,data-science,sql,dask,Data Engineer
+194347,c++,c#,visual-studio,machine-learning,image-processing,Software Developer
+207867,apache-spark,node.js,go,python,mysql,Data Engineer
+194613,r,data-science,google-cloud-platform,linux,geospatial,Data Engineer
+172784,java,machine-learning,hadoop,,,Java Developer
+166637,apache-spark,hadoop,bigdata,,,Data Engineer
+164816,java,algorithm,machine-learning,jenkins,continuous-integration,Java Developer
+201260,python,nlp,machine-learning,text-mining,named-entity-recognition,Data Scientist
+201413,machine-learning,java,python,javascript,reactjs,Software Developer
+172189,scala,apache-spark,docker,java,cloud,Cloud Engineer
+208460,hadoop,python,mssql,pyspark,aws,Data Engineer
+208362,algorithm,machine-learning,c++,python,linux,Software Developer
+208589,reactjs,typescript,postgresql,elasticsearch,,Full Stack Developer 
+208753,hadoop,amazon-web-services,machine-learning,,,Data Engineer
+208215,python,sql,tensorflow,gis,machine-learning,Data Engineer
+208621,cloud,d3.js,machine-learning,,,Data Engineer
+208368,reactjs,typescript,d3.js,ecmascript-6,redux-observable,Front End Developer
+160997,java,etl,user-experience,hadoop,python,Data Architect
+208459,sql,python,json,xml,matplotlib,Data Analyst
+208558,azure,hadoop,sql,hdinsight,mapreduce,Data Engineer
+196520,machine-learning,go,javascript,python,scala,Machine Learning Engineer
+204287,python,node.js,web-services,sql,elasticsearch,Backend Developer
+203433,hadoop,apache-spark,database,bigdata,spark-streaming,Data Engineer
+205731,azure,sql,nosql,data-security,etl,Data Architect
+138304,java,sql,html,javascript,ajax,Salesforce Developer
+201669,r,python,sql,data-ingestion,aws,Data Engineer
+190154,ruby,sql,java,python,,Data Scientist
+195765,salesforce,salesforce-lightning,apex-code,visualforce,soql,Salesforce Developer
+180775,amazon-web-services,python,ansible,,,Cloud Engineer
+173146,php,mysql,elasticsearch,percona-xtradb-cluster,kubernetes,Backend Developer
+209825,python,django,qa,,,Data Analyst
+201317,analytics,pandas,data-analysis,,,Data Analyst
+196189,apache-spark,spark,,,,Software Developer
+201225,python,c++,go,tensorflow,docker,Full Stack Developer 
+157654,scala,python,keras,machine-learning,data-science,Machine Learning Engineer
+201227,python,c++,caffe,tensorflow,machine-learning,Machine Learning Engineer
+208367,kubernetes,openfaas,docker,go,python,Data Scientist
+198201,scala,apache-spark,amazon-web-services,apache-kafka,terraform,Big Data Developer
+208369,go,kubernetes,docker,git,,Data Scientist
+202709,scala,apache-spark,aws,amazon-redshift,,Data Engineer
+195949,elixir,ruby-on-rails,microservices,machine-learning,event-sourcing,Backend Developer
+205653,cloud,amazon-web-services,azure,artificial-intelligence,,Artificial Intelligence
+159927,hadoop,cloudera,java,bigdata,geospatial,Java Developer
+207797,machine-learning,sql,python,r,apache-spark,Data Scientist
+200759,sql,python,numpy,pandas,hadoop,Data Analyst
+206169,reactjs,php,zend-framework,mysql,redis,Software Developer
+206026,python,sql,machine-learning,aws,,Data Scientist
+168980,algorithm,machine-learning,deep-learning,python,,Machine Learning Engineer
+203943,java,python,r,julia,octave,Data Scientist
+202368,salesforce,salesforce-lightning,etl,javascript,css,Salesforce Developer
+164525,python,scikit-learn,numpy,tensorflow,sql,Data Scientist
+202866,java,python,data-modeling,r,bigdata,Data Scientist
+200900,python,etl,solr,nlp,machine-learning,Data Engineer
+205304,python,r,scikit-learn,,,Data Scientist
+207454,java,c++,python,artificial-intelligence,machine-learning,Artificial Intelligence
+207148,c++,java,c,,,Data Scientist
+202226,scala,php,java,postgresql,elasticsearch,Backend Developer
+186790,python,c++,go,,,Software Developer
+204817,node.js,javascript,angular,database,amazon-web-services,Artificial Intelligence
+207828,salesforce,apex,javascript,html5,visualforce,Salesforce Developer
+203366,python,cloud,apache-spark,docker,kubernetes,Data Engineer
+207345,elasticsearch,amazon-web-services,etl,logstash,lucene,Software Developer
+189940,python,database,analytics,,,Machine Learning Engineer
+200369,c++,caffe,tensorflow,computer-vision,deep-learning,Software Developer
+170363,python,postgresql,hadoop,apache-spark,java,Data Engineer
+205235,machine-learning,python,sql,algorithms,bigdata,Machine Learning Engineer
+206177,cloud,amazon-web-services,python,scala,etl,Cloud Engineer
+194030,java,amazon-web-services,elasticsearch,spring,postgresql,Java Developer
+166881,etl,sql,informatica,data-modeling,data-integration,Data Engineer
+120922,java,akka,scala,apache-flink,,Software Developer
+200498,elasticsearch,ansible,amazon-web-services,linux,sysadmin,DevOps Engineer
+162255,python,javascript,java,amazon-web-services,machine-learning,Software Developer
+197822,sql,sql-server,ssis,,,Data Engineer
+206729,java,python,sql,,,Software Developer
+163376,python,google-cloud-platform,automation,security,web-services,Backend Developer
+183484,python,web-crawler,web-scraping,scrapy,data-science,Python Developer
+167961,python,mysql,javascript,jupyter,sqlalchemy,Python Developer
+200497,elasticsearch,java,amazon-web-services,postgresql,mongodb,Java Developer
+198122,python,google-cloud-platform,automation,security,web-services,Backend Developer
+194033,java,python,amazon-web-services,elasticsearch,postgresql,Software Developer
+205892,python,api,rest,java,jupyter-notebook,Software Developer
+204089,machine-learning,python,apache-spark,hadoop,scala,Data Scientist
+207310,scala,apache-spark,etl,mysql,postgresql,Data Engineer
+193038,linux,ansible,devops,docker,automation,Artificial Intelligence
+201171,kubernetes,python,terraform,airflow,ansible,Data Engineer
+205242,r,python,sql,,,Data Scientist
+174234,php,rest,oop,elasticsearch,mongodb,Backend Developer
+195079,nosql,google-cloud-platform,,,,Big Data Developer
+205680,python,amazon-redshift,java,airflow,,Data Engineer
+202796,apache-spark,sql,data-warehouse,java,python,Data Engineer
+206062,python,sql,hadoop,apache-spark,,Machine Learning Engineer
+201181,python,pandas,,,,Software Developer
+207659,web-technologies,configuration,,,,Java Developer
+205349,sql,python,java,amazon-redshift,postgresql,Big Data Developer
+159517,python,rest,amazon-web-services,numpy,pandas,Backend Developer
+194323,java,elasticsearch,mongodb,javascript,node.js,Software Developer
+190593,hadoop,python,,,,Data Engineer
+159909,python,tensorflow,amazon-web-services,time-series,java,Data Scientist
+166740,c++,python,artificial-intelligence,tensorflow,,Artificial Intelligence
+161070,c++,machine-learning,python,,,Machine Learning Engineer
+206664,scala,java,database,,,Data Engineer
+207508,scala,amazon-s3,amazon-emr,apache-spark-sql,python,Data Scientist
+206432,scala,java,sql,hadoop,mongo,Data Engineer
+206639,amazon-web-services,java,python,apache-kafka,,Data Engineer
+160645,machine-learning,hadoop,python,mongodb,nlp,Data Scientist
+206299,mongodb,java,mysql,jenkins,jira,Data Engineer
+126592,angular2,d3.js,apache-spark,amazon-s3,elasticsearch,Software Developer
+194732,apache-kafka,java,amazon-web-services,apache-spark,,Data Engineer
+206163,python,java,microservices,spark,aws,Software Developer
+172083,r,data-science,bigdata,python,cortana-intelligence,Data Scientist
+181679,hadoop,python,pyspark,r,statistics,Data Scientist
+206382,oop,java,hadoop,gnu,linux,Software Developer
+155770,java,docker,spring-boot,linux,elasticsearch,Backend Developer
+144841,symfony,php,mysql,laravel,elasticsearch,Backend Developer
+147089,java,azure,amazon-web-services,php,cloud,Cloud Engineer
+151097,javascript,reactjs,,,,Front End Developer
+158276,groovy,java,hadoop,model-view-controller,grails,Software Developer
+156772,java,,,,,Data Engineer
+153911,r,python,sql,amazon-redshift,,Data Analyst
+153909,java,mongodb,apache-spark,go,postgresql,Backend Developer
+133018,java,flume,elasticsearch,git,linux,Java Developer
+154291,python,airflow,apache-spark,amazon-redshift,,Data Engineer
+140868,hadoop,cloud,java,json,accumulo,Cloud Engineer
+132677,python,scala,c++,postgresql,agile,Backend Developer
+146436,mongodb,java-8,apache-kafka,hadoop,vert.x,Java Developer
+158956,.net,c#,testing,qa,,Quality Assurance Analyst 
+153210,c++,mpi,numpy,linux,hpc,Machine Learning Engineer
+145969,nlp,genetic-algorithm,python,user-interface,tensorflow,Software Developer
+154073,matlab,c,embedded,,,Software Developer
+133970,python,tensorflow,machine-learning,deep-learning,nlp,Artificial Intelligence
+155869,testing,qa,,,,Quality Assurance Analyst 
+156072,python,sql,google-adwords,apache-spark,,Backend Developer
+152112,hadoop,spark,cassandra,rabbitmq,redis,Software Developer
+151921,reactjs,javascript,redux,webpack,d3.js,Front End Developer
+157840,apache-spark,algorithm,scala,machine-learning,search,Data Engineer
+157828,algorithm,machine-learning,c++,python,artificial-intelligence,Machine Learning Engineer
+158335,hadoop,apache-spark,scala,microservices,amazon-web-services,Data Engineer
+158145,python,automated-tests,apache-spark,scala,node.js,Quality Assurance Analyst 
+159330,tensorflow,python,spark,data-science,,Data Scientist
+153478,java,elasticsearch,hadoop,lucene,nosql,Java Developer
+157304,pytorch,keras,tensorflow,machine-learning,,Artificial Intelligence
+152751,salesforce,admin,excel,,,Salesforce Developer
+138824,amazon-ec2,python,html,sql,javascript,Data Scientist
+156295,apex,visualforce,javascript,salesforce,,Salesforce Developer
+154671,c++,python,machine-learning,sql,r,Data Scientist
+154079,machine-learning,java,nlp,deep-learning,,Machine Learning Engineer
+157711,sql,python,r,crm,,Data Scientist
+136313,amazon-web-services,google-cloud-platform,linux,mysql,nosql,Cloud Engineer
+155218,hadoop,apache-spark,r,,,Big Data Developer
+148665,deep-learning,machine-learning,nlp,information-retrieval,reinforcement-learning,Machine Learning Engineer
+154045,python,reactjs,numpy,scipy,javascript,Python Developer
+151199,r,sql,data,python,postgresql,Data Scientist
+155327,php,elasticsearch,mongodb,nosql,rabbitmq,Software Developer
+157770,less,user-experience,user-interface,,,Data Analyst
+159191,hadoop,amazon-web-services,apache-spark,,,Data Engineer
+157956,java,scala,nosql,hadoop,apache-spark,Java Developer
+151922,python,r,numpy,matplotlib,django,Python Developer
+157727,python,pandas,scikit-learn,apache-spark,,Python Developer
+117842,php,javascript,mysql,docker,scala,Software Developer
+125621,web,solid-principles,spring,,,Software Developer
+151567,airflow,hive,hadoop,kubernetes,rest,Backend Developer
+159023,cloud,visualforce,apex,java,,Salesforce Developer
+153134,android,ios,web-applications,kotlin,swift,Quality Assurance Analyst 
+159467,java,kafka,storm,python,,Java Developer
+150896,machine-learning,apache-spark,hadoop,amazon-redshift,bigdata,Data Engineer
+157462,c#,automated-tests,asp.net-web-api,.net,specflow,Quality Assurance Analyst 
+150911,java,python,scala,c++,hadoop,Software Developer
+127752,java,machine-learning,,,,Java Developer
+206668,tensorflow,python,scikit-learn,scipy,sql,Data Analyst
+203881,c#,asp.net,salesforce,cloud,agile,Software Developer
+201505,hadoop,java,nosql,scrum,gitlab,Data Scientist
+198531,python,sql,docker,java,azure,Machine Learning Engineer
+160614,python,java,pandas,numpy,scipy,Artificial Intelligence
+203396,python,machine-learning,pandas,statistics,data-modeling,Data Scientist
+204673,python,r,machine-learning,sas,,Data Scientist
+107242,elasticsearch,puppet,linux,mysql,sysadmin,DevOps Engineer
+168043,hadoop,apache-beam,google-bigquery,data-science,python,Data Engineer
+198997,java,spring,javascript,sql,elasticsearch,Software Developer
+204724,cloud,java,r,tensorflow,hadoop,Data Scientist
+173087,php,mysql,elasticsearch,rabbitmq,git,Backend Developer
+154096,r,sql,python,matlab,html,Data Scientist
+150900,python,r,hadoop,sql,apache-spark,Data Scientist
+152228,python,r,hadoop,sql,apache-spark,Data Scientist
+148237,automation,amazon-web-services,salesforce,continuous-integration,apex,Salesforce Developer
+157686,cloud,c++,java,python,groovy,Big Data Developer
+157688,oracle,cloud,java,python,docker,Software Developer
+145877,c#,typescript,d3.js,css,sql,Data Scientist
+144655,c++,artificial-intelligence,machine-learning,statistics,,Artificial Intelligence
+137304,php,mysql,unit-testing,architecture,extjs,Backend Developer
+137949,demandware,salesforce,javascript,,,Salesforce Developer
+134022,typescript,knockout.js,c#,leaflet,google-maps,Full Stack Developer 
+157889,java,d3.js,javascript,html5,postgresql,Full Stack Developer 
+139449,java,nosql,amazon-web-services,cassandra,elasticsearch,Software Developer
+158458,machine-learning,r,python,scala,data-analysis,Data Engineer
+156739,elasticsearch,ruby,ruby-on-rails,reactjs,java,Full Stack Developer 
+154680,hadoop,java,design,angularjs,scala,Software Developer
+140851,amazon-web-services,ansible,cassandra,hadoop,puppet,DevOps Engineer
+150359,java,amazon-web-services,cloud,apache-kafka,hadoop,Software Developer
+139942,javascript,reactjs,ecmascript-6,d3.js,typescript,Front End Developer
+158014,cloud,elasticsearch,docker,apache-zookeeper,scala,Cloud Engineer
+143527,python,aws,elasticsearch,hadoop,machine-learning,Software Developer
+146751,postgresql,ruby-on-rails,javascript,elasticsearch,jquery,Software Developer
+154588,airflow,python,machine-learning,docker,apache-spark,Machine Learning Engineer
+148072,python,erlang,haskell,linux,,Software Developer
+142778,c++,elasticsearch,,,,Backend Developer
+157019,python,postgresql,microservices,kubernetes,ubuntu,Full Stack Developer 
+154374,r,python,analytics,statistics,machine-learning,Data Scientist
+158912,elasticsearch,ansible,jenkins,amazon-web-services,rabbitmq,DevOps Engineer
+121690,mapreduce,cassandra,amazon-web-services,java,,Software Developer
+150495,node.js,javascript,graphql,elasticsearch,amazon-web-services,Backend Developer
+195983,apex,lightning,salesforce,crm,c#,Salesforce Developer
+187100,python,cloud,web-applications,simulation,data-analysis,Software Developer
+204937,python,openshift,jenkins,git,groovy,DevOps Engineer
+201199,java,python,sql,,,Software Developer
+206277,scala,python,nosql,data-pipeline,automation,Data Engineer
+198855,amazon-web-services,python,apache-spark,hadoop,hive,Data Engineer
+187751,scala,playframework,elasticsearch,amazon-web-services,java,Software Developer
+193996,python,amazon-web-services,amazon-ec2,amazon-redshift,sql,Data Engineer
+203734,php,mysql,amazon-web-services,database,etl,Data Engineer
+204864,scala,postgresql,sql,postgis,apache-spark,Data Engineer
+206002,java,c++,hadoop,,,Machine Learning Engineer
+206001,java,c++,hadoop,,,Machine Learning Engineer
+203383,java,c++,hadoop,php,python,Machine Learning Engineer
+206003,java,hadoop,c++,,,Software Developer
+200775,solr,nosql,docker,etl,amazon-web-services,Data Engineer
+200232,amazon-web-services,sql,hadoop,rest,database,Data Engineer
+202382,c,apache-spark,cloud,tensorflow,apache-kafka,Machine Learning Engineer
+201803,puppet,hadoop,spark,,,DevOps Engineer
+203312,java,hadoop,spark,aws,,Software Developer
+208697,machine-learning,spark,sql,python,scikit-learn,Data Scientist
+150059,reactjs,node.js,html5,flexbox,elasticsearch,Software Developer
+208230,java,python,scala,amazon-web-services,data-warehouse,Data Engineer
+208457,etl,python,hadoop,sql,machine-learning,Data Scientist
+208662,database,,,,,Data Analyst
+208453,python,apache-spark,scrum,,,Data Engineer
+206462,apache-spark,apache,hadoop,,,Artificial Intelligence
+187752,java,spring,agile,lucene,,Java Developer
+159086,scala,machine-learning,elasticsearch,java,search,Data Scientist
+204346,amazon-web-services,python,postgresql,devops,elasticsearch,DevOps Engineer
+197138,python,flask,celery,postgresql,elasticsearch,Software Developer
+103175,python,linux,postgresql,c,pandas,Software Developer
+204879,bash,java,hadoop,,,Data Engineer
+149281,python,c,pandas,postgresql,linux,Software Developer
+197834,android,reverse-engineering,code-analysis,java,security,Android Developer
+172110,hadoop,java,scala,spark,sql,Data Engineer
+167346,java,scala,apache-spark,bigdata,python,Data Engineer
+185435,scala,c#,hadoop,,,Software Developer
+128884,ruby-on-rails,javascript,mongodb,nosql,bigdata,Software Developer
+199238,devops,scripting,containers,continuous-integration,distributed-system,DevOps Engineer
+207890,scala,perl,python,c#,hadoop,Software Developer
+205656,cloud,artificial-intelligence,machine-learning,,,Artificial Intelligence
+205813,automated-tests,automation,salesforce,architecture,system-administration,Salesforce Developer
+207603,agile,devops,python,,,Software Developer
+208086,java,sql,scala,reactjs,apache-spark,Full Stack Developer 
+207558,hadoop,apache-spark,business-intelligence,amazon-redshift,etl,Data Engineer
+206921,apache-spark,machine-learning,agile,,,Artificial Intelligence
+208032,java,python,sql,,,Software Developer
+207958,java,,,,,Data Engineer
+201091,embedded,c,c++,matlab,linux,Software Developer
+200124,java,database,mongodb,maven,hadoop,Software Developer
+201820,agile,java,bigdata,data,,Software Developer
+206439,machine-learning,r,analytics,bigdata,statistics,Data Scientist
+206115,java,python,nosql,amazon-web-services,r,Data Scientist
+201821,java,agile,javascript,salesforce,apex,Software Developer
+206942,java,scala,hadoop,cloudera,continuous-deployment,Data Engineer
+206550,scala,python,machine-learning,scikit-learn,clojure,Data Engineer
+207934,sql,mongodb,backend,,,Backend Developer
+196560,azure-eventhub,azure-stream-analytics,machine-learning,scala,apache-spark,Data Engineer
+202394,java,python,sql,,,Data Analyst
+197492,machine-learning,hadoop,java,deep-learning,,Machine Learning Engineer
+206642,r,machine-learning,java,,,Data Scientist
+172349,android,kotlin,tensorflow,mvvm,,Android Developer
+206387,java,go,elasticsearch,cassandra,apache-kafka,Backend Developer
+194173,java,hadoop,mysql,,,Backend Developer
+156352,java,restful-architecture,docker,elasticsearch,redis,DevOps Engineer
+205179,python,apache-spark,sql,postgresql,amazon-web-services,Data Engineer
+205650,mapreduce,spark,hive,yarn,,Data Engineer
+198356,java,c,c++,python,neural-network,Cloud Engineer
+205715,python,django,java,reactjs,react-redux,Full Stack Developer 
+205651,java,,,,,Data Engineer
+205579,python,java,design,ruby,c#,Software Developer
+204020,agile,ruby-on-rails,elasticsearch,java,,Backend Developer
+201972,api,java,python,salesforce,,Software Developer
+194298,ruby-on-rails,reactjs,python,tensorflow,postgresql,Full Stack Developer 
+202038,python,nosql,unix,elasticsearch,amazon-web-services,Software Developer
+206905,java,data-processing,mapreduce,amazon-web-services,api,Data Engineer
+190535,java,scala,microservices,,,Backend Developer
+196437,scala,r,java,python,apache-spark,Data Engineer
+204085,machine-learning,python,apache-spark,scala,hadoop,Data Scientist
+171770,python,node.js,ruby,java,hadoop,Software Developer
+205375,elasticsearch,java,c++,jvm,,Java Developer
+203625,elasticsearch,r,python,java,c++,Machine Learning Engineer
+204087,machine-learning,python,apache-spark,scala,hadoop,Data Scientist
+201138,amazon-web-services,java,mongodb,apache-spark,elasticsearch,Backend Developer
+201257,c++,user-interface,qml,machine-learning,qt-quick,Software Developer
+206032,java,scala,architecture,bigdata,,Big Data Developer
+199121,hadoop,scala,apache,apache-spark,apache-kafka,Data Engineer
+204064,python,elasticsearch,amazon-web-services,amazon-redshift,apache-spark,Software Developer
+208121,mongo,sysadmin,,,,Cloud Engineer
+205979,etl,python,design,,,Data Engineer
+198510,elasticsearch,reactjs,ruby-on-rails,,,Full Stack Developer 
+200513,elasticsearch,cloud,docker,scala,java,Cloud Engineer
+198400,javascript,vue.js,d3.js,redux,webpack,Software Developer
+196557,r,python,machine-learning,data-science,sql,Data Scientist
+196511,tcp,udp,php,python,hadoop,Machine Learning Engineer
+207259,java,algorithm,bigdata,backend,data-structures,Software Developer
+207105,sysadmin,salesforce,salesforce-lightning,,,Salesforce Developer
+206966,amazon-web-services,azure,google-cloud-platform,docker,go,DevOps Engineer
+209639,java,python,sql,,,Full Stack Developer 
+207082,puppet,hadoop,,,,DevOps Engineer
+201059,java,python,nlp,tensorflow,,Machine Learning Engineer
+200560,reactjs,apache-kafka-streams,snowplow,data,,Data Engineer
+204831,azure,powerbi,business-intelligence,data-modeling,data-warehouse,Data Analyst
+206131,python,keras,azure,pandas,scikit-learn,Backend Developer
+173158,python,r,matlab,sql,,Data Analyst
+190161,java,apache-spark,apache-storm,cassandra,scala,Data Analyst
+164297,python,r,java,bigdata,sql,Data Engineer
+160509,python,mongodb,nlp,machine-learning,pandas,Data Scientist
+169208,sql,java,distributed-system,c,c++,Software Developer
+195382,python,scala,apache-spark,reactjs,django,Software Developer
+203249,reactjs,graphql,typescript,javascript,css,Machine Learning Engineer
+204413,python,matlab,python-2.7,wxpython,numpy,Python Developer
+206792,java,hadoop,amazon-web-services,apache-spark,docker,Data Engineer
+199251,python,hadoop,spark,tensorflow,sql,Data Scientist
+171264,python,machine-learning,r,sql,d3.js,Data Scientist
+202539,nosql,apache-spark,apache,cloud,,Data Engineer
+166785,hadoop,bigdata,,,,Data Engineer
+162560,scala,java,apache,bigdata,machine-learning,Data Scientist
+206816,etl,python,r,sas,tableau,Data Engineer
+200520,r,machine-learning,python,,,Data Scientist
+168473,java,sql,apache-spark,cassandra,postgresql,Software Developer
+199693,amazon-web-services,cloud,python,,,Data Engineer
+205317,java,python,hadoop,spark,aws,Data Engineer
+206712,python,r,amazon-web-services,algorithm,nlp,Data Scientist
+205461,salesforce,insight,angularjs,node.js,python,Salesforce Developer
+206315,reactjs,javascript,sass,jest,d3.js,Front End Developer
+201776,cloud,iot,etl,python,bigdata,Data Analyst
+200403,python,java,hive,spark,hadoop,Data Engineer
+201541,python,kubernetes,hadoop,apache-spark,amazon-redshift,Data Engineer
+202116,python,r,matlab,hpc,machine-learning,Machine Learning Engineer
+207196,salesforce,apex,javascript,node.js,reactjs,Salesforce Developer
+172614,java,scala,hadoop,apache-spark,linux,Big Data Developer
+194793,python,django,cassandra,elasticsearch,graph-theory,Python Developer
+206099,azure,sql,database,sysadmin,,Data Engineer
+172982,cloud,sql,database,bigdata,azure,Data Engineer
+194245,python,devops,aws,cumulocity,data-warehouse,DevOps Engineer
+202949,java,security,cryptography,oauth-2.0,sha,Java Developer
+205226,java,python,sql,,,Software Developer
+163753,r,python,tensorflow,nlp,machine-learning,Data Scientist
+198898,java,sql-server,oracle,teradata,hadoop,Big Data Developer
+203117,c++,embedded,c,matlab,simulink,Software Developer
+167750,java,reactjs,sql,nlp,,Machine Learning Engineer
+203856,hadoop,agile,machine-learning,apache-kafka,pyspark,Data Engineer
+204565,java,python,hadoop,,,Java Developer
+202414,javascript,java,amazon-web-services,continuous-integration,bigdata,Software Developer
+187729,python,sql,ruby,amazon-web-services,nosql,Data Engineer
+206839,java,python,sql,,,Software Developer
+205991,r,python,,,,Data Scientist
+208334,hadoop,scala,elasticsearch,jvm,amazon-web-services,Software Developer
+184936,r,machine-learning,python,data-science,nosql,Data Scientist
+208337,hadoop,spark,amazon-web-services,computer-science,,Machine Learning Engineer
+170315,kubernetes,tensorflow,node.js,apache-spark,apache-kafka,Data Engineer
+173557,r,python,spark,sql,git,Data Scientist
+190590,machine-learning,data-science,scala,java,apache-spark,Data Scientist
+207419,hadoop,nosql,mysql,clojure,etl,Software Developer
+209810,mongodb,amazon-web-services,python,pyspark,etl,Data Engineer
+206380,python,apache-spark,machine-learning,amazon-web-services,postgresql,Data Engineer
+203318,amazon-web-services,node.js,microservices,bigdata,ruby,Software Developer
+184387,agile,salesforce,apex,json,force.com,Salesforce Developer
+207058,cloud,agile,continuous-integration,salesforce,architecture,Salesforce Developer
+164574,scala,angularjs,typescript,elasticsearch,akka,Full Stack Developer 
+200209,angularjs,scala,typescript,elasticsearch,amazon-web-services,Full Stack Developer 
+163535,python,elasticsearch,rest,,,Backend Developer
+174713,aws-lambda,mapreduce,amazon-web-services,amazon-vpc,amazon-cloudformation,Cloud Engineer
+207698,java,spring,rest,json,lucene,Java Developer
+194625,php,mysql,javascript,elasticsearch,redis,Software Developer
+172186,amazon-web-services,hadoop,devops,spark-streaming,bigdata,Software Developer
+165041,scala,apache-spark,machine-learning,bigdata,python,Data Engineer
+200519,saas,machine-learning,python,php,vue.js,Full Stack Developer 
+64810,javascript,reactjs,c#,artificial-intelligence,,Full Stack Developer 
+197741,java,kotlin,javascript,clojure,go,Machine Learning Engineer
+165266,java,javascript,reactjs,clojure,go,Machine Learning Engineer
+205758,r,python,linux,sql,ms-office,Data Scientist
+194791,python,tableau,r,sysadmin,,Data Scientist
+207217,java,scala,akka,spring,elasticsearch,Backend Developer
+131734,python,machine-learning,data-science,supervised-learning,unsupervised-learning,Data Scientist
+205824,ruby,ruby-on-rails,elasticsearch,javascript,reactjs,Software Developer
+203331,design,api,user-interface,,,Software Developer
+200095,c++,python,c#,docker,keras,Machine Learning Engineer
+200798,artificial-intelligence,machine-learning,tensorflow,,,Artificial Intelligence
+205335,reactjs,node.js,backbone.js,algorithm,artificial-intelligence,Full Stack Developer 
+169768,java,artificial-intelligence,postgresql,kafka,spark,DevOps Engineer
+201370,apache-spark,scala,python,apache-kafka,spark-streaming,Machine Learning Engineer
+196681,machine-learning,r,python,matlab,sas,Data Scientist
+206006,hadoop,java,c++,,,Software Developer
+203948,azure,cloud,security,python,microservices,Machine Learning Engineer
+208179,java,c++,hadoop,,,Machine Learning Engineer
+172924,angularjs,javascript,java,css3,rest,Front End Developer
+199084,tensorflow,haskell,machine-learning,pytorch,caffe2,Machine Learning Engineer
+208285,pytorch,tensorflow,nlp,machine-learning,information-retrieval,Machine Learning Engineer
+198023,r,machine-learning,python,java,c++,Data Scientist
+208676,amazon-web-services,kubernetes,apache-spark,hadoop,elasticsearch,Data Engineer
+199883,spark,presto,hive,kubernetes,kafka,Data Engineer
+198725,android,http,api,rest,,Data Scientist
+208677,solr,elasticsearch,amazon-web-services,kubernetes,docker,Software Developer
+167204,solr,apache-spark,clojure,scala,reactjs,Software Developer
+169763,apex,salesforce,salesforce-lightning,lead,,Salesforce Developer
+207117,git,javascript,design,salesforce,salesforce-lightning,Salesforce Developer
+207766,angular,,,,,Full Stack Developer 
+206847,java,postgresql,azure,,,Software Developer
+206846,java,postgresql,azure,,,Software Developer
+207566,java,python,sql,,,Machine Learning Engineer
+198598,c++,qt,elasticsearch,c#,java,Software Developer
+171690,data-science,data-mining,python,algorithms,,Data Scientist
+208392,python,scala,sql,hadoop,spark,Big Data Developer
+208591,scala,apache-spark,sql,etl,,Data Engineer
+208396,python,machine-learning,data-mining,scikit-learn,,Data Scientist
+208590,scala,apache-spark,amazon-web-services,,,Data Engineer
+208520,php,node.js,angularjs,python,spark,Full Stack Developer 
+198891,python,machine-learning,c++,,,Python Developer
+205537,rest,python,linux,bigdata,data-visualization,Data Engineer
+208682,reactjs,hadoop,user-interface,,,Machine Learning Engineer
+200230,r,machine-learning,python,perl,,Data Scientist
+205987,r,hadoop,machine-learning,,,Data Scientist
+199285,salesforce,apex,visualforce,salesforce-lightning,,Salesforce Developer
+197330,react,ruby,ruby-on-rails,elasticsearch,docker,Software Developer
+202746,java,distributed-computing,concurrency,bigdata,network-programming,Java Developer
+207560,java,python,sql,,,Data Scientist
+200419,java,hadoop,python,linux,,Big Data Developer
+161289,hadoop,angularjs,google-bigquery,python-3.x,,Data Scientist
+161287,reactjs,javascript,sass,python-3.x,hadoop,Full Stack Developer 
+199459,algorithm,c++,kotlin,kubernetes,machine-learning,Backend Developer
+174714,aws-lambda,amazon-web-services,lambda,mapreduce,amazon-cloudformation,Software Developer
+205741,machine-learning,sql,r,julia-lang,numpy,Data Scientist
+188154,java,docker,kubernetes,linux,go,Cloud Engineer
+203219,java,javascript,cloud,,,Java Developer
+202965,soap,cloud,javascript,html,css,Salesforce Developer
+160388,cloud,web-services,design,jquery,rest,Salesforce Developer
+174600,cloud,azure,amazon-web-services,c#,asp.net,DevOps Engineer
+208357,java,python,web-services,scikit-learn,tensorflow,Machine Learning Engineer
+208356,web-services,devops,java,scala,tdd,Software Developer
+198402,javascript,vue.js,d3.js,redux,webpack,Software Developer
+208430,java,python,sql,,,Software Developer
+205714,reactjs,r,sql,numpy,pandas,Machine Learning Engineer
+186791,python,sql,c++,go,,Backend Developer
+175054,amazon,elasticsearch,python,ruby,java,Backend Developer
+206962,amazon-web-services,scala,java,,,Data Engineer
+205539,scala,apache-spark,amazon-web-services,database,,Data Engineer
+203720,java,postgresql,azure,,,Software Developer
+203711,java,postgresql,azure,,,Software Developer
+203719,java,postgresql,azure,,,Software Developer
+203709,java,postgresql,azure,,,Software Developer
+207013,python,node.js,postgresql,,,Data Engineer
+173135,python,mongodb,mysql,database,sysadmin,Data Analyst
+166438,typescript,javascript,elasticsearch,node.js,react-native,Software Developer
+155382,elasticsearch,mongodb,redis,docker,jenkins,DevOps Engineer
+143936,amazon,aws,iot,spark,kafka,Cloud Engineer
+159105,devops,smack-stack,azure,dcos,mesos,DevOps Engineer
+134318,apex,salesforce,visualforce,soql,,Salesforce Developer
+157476,hadoop,apache-spark,cloud,continuous-integration,kubernetes,Cloud Engineer
+155786,scala,python,apache-spark,cassandra,apache-kafka,Software Developer
+159054,elasticsearch,mongodb,linux,logstash,kibana,DevOps Engineer
+159251,java,hadoop,apache-kafka,openstack,microservices,Software Developer
+130321,chef,amazon-web-services,ruby,linux,elasticsearch,DevOps Engineer
+157355,docker,linux,sysadmin,on-prem,architecture,DevOps Engineer
+159532,cassandra,nosql,cloud,,,Big Data Developer
+91255,python,cython,postgresql,memcached,bigdata,Python Developer
+157655,python,java,amazon-web-services,docker,kubernetes,Software Developer
+150870,symfony2,elasticsearch,git,,,Backend Developer
+153679,java,oop,hadoop,,,Software Developer
+157466,hbase,apache-spark,apache-kafka,,,Big Data Developer
+146098,machine-learning,c++,gpu-programming,mongodb,nosql,DevOps Engineer
+158738,docker,ansible,linux,amazon-web-services,travis-ci,Cloud Engineer
+158909,automation,hadoop,chef,,,DevOps Engineer
+152409,java,elasticsearch,groovy,java-ee,javascript,Java Developer
+157270,c++,java,devops,machine-learning,linux,Software Developer
+157985,python,java,apache-spark,hadoop,docker,Software Developer
+157791,salesforce,apex-code,soql,visualforce,rest,Salesforce Developer
+157963,java,c++,.net,salesforce,oracle,Software Developer
+158660,devops,gitlab,amazon-web-services,version-control,jenkins,DevOps Engineer
+130926,java,bigdata,agile,microservices,cloud,Software Developer
+146943,scala,apache-kafka,java,python,hadoop,Data Engineer
+158745,scala,python,r,scikit-learn,apache-spark,Data Scientist
+124508,python,java,sql,scala,amazon-web-services,Data Engineer
+145564,docker,kubernetes,rancher,go,ansible,DevOps Engineer
+129749,php,laravel,mysql,redis,elasticsearch,Software Developer
+137061,hadoop,linux,java,scala,,Data Engineer
+158478,elasticsearch,apache-spark,java,apache-kafka,cassandra,Data Engineer
+151399,azure,amazon-web-services,cloud,machine-learning,,Cloud Engineer
+159449,web-services,python,java,,,Artificial Intelligence
+153265,postgresql,apache-spark,apachemf,amazon-web-services,ruby-on-rails,Big Data Developer
+152961,postgresql,amazon-redshift,apache-spark,ruby,bigdata,Big Data Developer
+131398,elasticsearch,solr,scala,search,lucene,Software Developer
+128492,elasticsearch,security,java,ldap,saml,Java Developer
+166817,java,docker,kubernetes,linux,go,Cloud Engineer
+137659,go,elasticsearch,distributed-system,monitoring,scala,Software Developer
+131072,scala,clojure,raft,distributed-system,elasticsearch,Cloud Engineer
+126185,java,elasticsearch,lucene,geospatial,,Java Developer
+142632,elasticsearch,lucene,solr,ruby-on-rails,kafka,Software Developer
+146480,nodejs,mongodb,elasticsearch,docker,web-services,Software Developer
+151235,java,mongodb,elasticsearch,solr,lucene,Java Developer
+139397,php,elasticsearch,,,,Backend Developer
+139601,php,mysql,laravel,elasticsearch,,Software Developer
+117404,python,java,javascript,elasticsearch,kubernetes,Software Developer
+156306,java,spring,spring-mvc,maven,elasticsearch,Java Developer
+153954,java,web-services,spring,elasticsearch,rest,Java Developer
+109211,java-8,hbase,elasticsearch,api,dropwizard,Backend Developer
+148573,clojure,react-native,elasticsearch,oauth,node.js,Software Developer
+159488,java,polymer,javascript,maven,elasticsearch,Java Developer
+143388,c#,azure,elasticsearch,eventsourcing,tdd,Backend Developer
+142961,mongodb,mysql,elasticsearch,python,sqlite,Backend Developer
+158659,elasticsearch,apache-spark,tensorflow,scikit-learn,lucene,Software Developer
+125787,scala,java,elasticsearch,bigdata,playframework,Java Developer
+156588,cassandra,elasticsearch,apache-spark,,,Big Data Developer
+130868,java,soap,spring,maven,elasticsearch,Java Developer
+159285,ruby-on-rails,javascript,mongodb,elasticsearch,docker,Full Stack Developer 
+128568,spark,elasticsearch,python,hadoop,amazon-web-services,Data Engineer
+157133,elasticsearch,hadoop,java,apache-spark,machine-learning,Software Developer
+152219,java,elasticsearch,playframework,amazon-web-services,,Java Developer
+156380,elasticsearch,c#,.net,javascript,microservices,Software Developer
+152287,java,javascript,jquery,elasticsearch,hadoop,Java Developer
+155512,python,node.js,rust,cassandra,elasticsearch,Software Developer
+128415,react,javascript,asp.net-mvc,elasticsearch,browserify,Front End Developer
+158590,apache-spark,hadoop,sql,rabbitmq,elasticsearch,Big Data Developer
+155317,machine-learning,java,elasticsearch,bigdata,clojure,Software Developer
+134761,redux,nosql,elasticsearch,node.js,,Data Engineer
+157979,java,spring,hibernate,microservices,elasticsearch,Java Developer
+138083,python,logstash,elasticsearch,kibana,amazon-web-services,DevOps Engineer
+137264,lamp,amazon-web-services,asterisk,elasticsearch,sip,Software Developer
+132976,java,soap,spring,maven,elasticsearch,Java Developer
+128298,c#,sql-server,angularjs,asp.net-mvc,elasticsearch,Full Stack Developer 
+141961,java,spring-mvc,amazon-web-services,postgresql,elasticsearch,Java Developer
+153826,elasticsearch,postgresql,c++,java,python,Software Developer
+152692,java,frameworks,java-ee,elasticsearch,cloud-computing,Java Developer
+143663,puppet,java,spring,reactive-programming,elasticsearch,Java Developer
+120609,java,javascript,npm,groovy,elasticsearch,Java Developer
+151029,node.js,reactjs,elasticsearch,mongodb,auth0,Software Developer
+158701,docker,amazon-web-services,apache-spark,scala,akka,Backend Developer
+109209,java-8,reactjs,ecmascript-6,hadoop,dropwizard,Software Developer
+131360,go,python,reactjs,apache-kafka,apache-spark,Software Developer
+110179,sql,automation,rdbms,ordbms,oodbms,Software Developer
+144404,php,java,python,postgresql,mondrian,Data Scientist
+155400,scala,kubernetes,docker,reactjs,javascript,Software Developer
+150691,python,celery,db,,,Python Developer
+157374,agile,cloud,api,java,git,Software Developer
+136253,go,docker,apache-kafka,linux,bigdata,DevOps Engineer
+156582,apache-spark,oop,java,,,Software Developer
+157446,hadoop,scala,python,apache-spark,apache-kafka,Data Engineer
+147392,machine-learning,r,sql,python,apache-spark,Data Scientist
+147553,hadoop,cloud,data-mining,machine-learning,bigdata,Data Scientist
+154272,java,apache-spark,cloud,amazon-web-services,amazon-emr,Cloud Engineer
+158204,hadoop,spark,hive,impala,scala,Big Data Developer
+110338,php,go,python,c++,nosql,Software Developer
+159312,machine-learning,amazon-web-services,apache-spark,,,Data Engineer
+159505,python,sql,hadoop,,,Data Scientist
+131787,hadoop,chef,java,docker,kubernetes,DevOps Engineer
+159302,machine-learning,amazon-web-services,apache-spark,,,Data Engineer
+140515,scala,python,data-science,amazon-web-services,apache-spark,Data Scientist
+131403,java,scala,hadoop,mapreduce,nosql,Software Developer
+165037,python,django,linux,elasticsearch,unit-testing,Backend Developer
+203805,react,go,elasticsearch,docker,python,Front End Developer
+192102,node.js,reactjs,elasticsearch,google-cloud-platform,redux,Software Developer
+199092,java,rest,apache-spark,apache-kafka,elasticsearch,Software Developer
+197795,elasticsearch,talend,hadoop,google-bigquery,angular,Data Engineer
+162992,python,nosql,elastic-map-reduce,apache-kafka,etl,Data Engineer
+202698,docker,sql,centos,linux,,DevOps Engineer
+203248,c++,python,embedded,,,Software Developer
+151167,java,deep-learning,machine-learning,scala,python,Artificial Intelligence
+136506,signal-processing,deep-learning,machine-learning,acoustics,,Machine Learning Engineer
+159311,machine-learning,apache-spark,linux,,,Data Engineer
+156550,hadoop,amazon-web-services,bigdata,docker,aerospike,DevOps Engineer
+112636,javascript,reactjs,keystone.js,jade,css,Machine Learning Engineer
+147531,machine-learning,deep-learning,tensorflow,scikit-learn,python,Machine Learning Engineer
+147533,machine-learning,deep-learning,tensorflow,scikit-learn,python-3.x,Machine Learning Engineer
+156128,java,c++,python,machine-learning,,Data Scientist
+157566,machine-learning,python,deep-learning,tensorflow,bigdata,Machine Learning Engineer
+154329,c++,python,machine-learning,,,Machine Learning Engineer
+159306,machine-learning,apache-spark,linux,,,Data Engineer
+158167,machine-learning,linux,unix,caffe,tensorflow,Machine Learning Engineer
+153476,java,amazon-redshift,snowflake,database,sql,Data Engineer
+153810,node.js,cloud,analytics,,,Data Engineer
+140410,machine-learning,deep-learning,image-recognition,image-processing,signal-processing,Artificial Intelligence
+159386,python-3.x,python,postgresql,sqlalchemy,flask,Backend Developer
+139993,linux,unix,git,svn,hadoop,Backend Developer
+157360,python-3.x,python,postgresql,sqlalchemy,flask,Backend Developer
+153458,apache-spark,scala,machine-learning,,,Data Engineer
+205211,data-science,bigdata,machine-learning,,,Data Scientist
+195989,deep-learning,machine-learning,artificial-intelligence,neural-network,,Data Scientist
+203181,python,,,,,Data Scientist
+203506,r,java,sql,nlp,data-science,Data Scientist
+206854,java,python,sql,,,Software Developer
+203791,rest,sql,javascript,python,nosql,Backend Developer
+153228,android,ios,mobile,python,opengl,Android Developer
+152108,qa,,,,,Quality Assurance Analyst 
+157891,react-native,javascript,ios,,,Artificial Intelligence
+159174,machine-learning,data-mining,statistics,bigdata,data-science,Data Scientist
+152845,google-bigquery,sql,python,amplitude,r,Data Analyst
+139262,r,machine-learning,python,,,Data Scientist
+135749,image-recognition,machine-learning,computer-vision,opencv,c++,Machine Learning Engineer
+154574,machine-learning,algorithm,r,ruby,ruby-on-rails,Data Analyst
+128219,hadoop,data-pipeline,apache-storm,apache-spark,,Data Engineer
+157598,javascript,node.js,reactjs,angularjs,,Artificial Intelligence
+150676,apache-spark,apache-kafka,apache-zookeeper,hbase,amazon-web-services,Data Engineer
+121459,python,time-series,machine-learning,c,c++,Data Scientist
+149007,scalability,apache-kafka,hadoop,apache-spark,hive,Software Developer
+135821,android,reverse-engineering,code-analysis,xposed,java,Android Developer
+155206,pandas,r,python,numpy,sql,Data Analyst
+130402,java,hadoop,scala,hive,apache-spark,Java Developer
+150942,tensorflow,caffe,c++,machine-learning,javascript,Machine Learning Engineer
+154347,java,apache-spark,sqoop,hbase,oracle,Java Developer
+140634,python,google-app-engine,google-cloud-datastore,,,Backend Developer
+157737,typescript,javascript,python,go,sql,Machine Learning Engineer
+145737,java,python,sql,sql-server,mysql,Data Engineer
+156879,kubernetes,amazon-web-services,gpu,apache-kafka,tensorflow,Machine Learning Engineer
+147637,deep-learning,machine-learning,computer-vision,tensorflow,conv-neural-network,Artificial Intelligence
+103508,c++,deep-learning,javascript,opengl,machine-learning,Software Developer
+143962,c#,.net,matlab,agile,model-view-controller,Software Developer
+158165,cloud,machine-learning,hadoop,openstack,amazon-web-services,Cloud Engineer
+133348,hp-quality-center,,,,,Quality Assurance Analyst 
+158612,reactjs,javascript,git,,,Artificial Intelligence
+158881,python,django,scrapy,postgresql,celery,Python Developer
+147021,hadoop,amazon-web-services,apache-spark,rule-engine,java,Software Developer
+152081,java,google-cloud-platform,grpc,reactjs,,Artificial Intelligence
+157129,java,python,docker,tensorflow,machine-learning,Machine Learning Engineer
+153951,automated-tests,qa,amazon-web-services,,,Quality Assurance Analyst 
+157130,java,javascript,docker,tensorflow,machine-learning,Full Stack Developer 
+132568,scala,java,javascript,bigdata,sql,Software Developer
+145735,machine-learning,r,python,java,,Data Scientist
+153247,python,kubernetes,amazon-web-services,google-cloud-platform,azure,Machine Learning Engineer
+147891,distributed-system,java,go,linux,cassandra,Cloud Engineer
+147963,distributed-system,java,go,linux,cassandra,Cloud Engineer
+149622,scala,java,javascript,bigdata,sql,Software Developer
+153942,java,cassandra,opentsdb,time-series,apache-spark-ml,Data Scientist
+158976,salesforce,apex,soql,visualforce,,Salesforce Developer
+157860,machine-learning,cloud,hadoop,,,Data Engineer
+157261,python,ruby,linux,,,Software Developer
+151757,c++,c,machine-learning,,,Full Stack Developer 
+157747,hadoop,scala,java,machine-learning,bigdata,Machine Learning Engineer
+156804,python-3.x,jupyter-notebook,mysql,pandas,scikit-learn,Data Analyst
+156802,python-3.x,jupyter-notebook,mysql,pandas,scikit-learn,Data Scientist
+152995,python,hadoop,scala,amazon-web-services,apache-spark,Data Engineer
+147035,c++,c#,aws,meta-heuristic-algorithms,,Machine Learning Engineer
+143393,java,python,hadoop,apache-spark,mapreduce,Big Data Developer
+158726,python,hadoop,apache-spark,sql,bigdata,Python Developer
+158889,vb.net,java,python,perl,c#,Software Developer
+157220,bigdata,data-science,hadoop,data-lake,amazon-web-services,Data Scientist
+157632,python,agile,testing,,,Python Developer
+194869,apache-spark,scala,hadoop,spark,exasolution,Big Data Developer
+165458,html,css,java-8,hbase,spring,Java Developer
+157869,go,python,amazon-web-services,open-source,bigdata,Full Stack Developer 
+152336,amazon-web-services,cloud,architecture,python,,Data Architect
+153694,java,hadoop,python,postgresql,scala,Data Engineer
+155757,crm,sql,hadoop,mapreduce,mongodb,Data Engineer
+143085,python,node.js,javascript,docker,apache-spark,Software Developer
+208674,python,pandas,luigi,etl,dimensional-modeling,Data Engineer
+203909,java,spark,scripting,scala,,Software Developer
+208477,machine-learning,data-science,r,statistics,tensorflow,Data Scientist
+208268,scala,java,amazon-web-services,bigdata,,Data Engineer
+164375,machine-learning,hadoop,amazon-web-services,hive,python,Data Scientist
+201409,java,bigdata,amazon-web-services,scala,apache-spark,Data Engineer
+168686,design,unix,c,c++,,Data Analyst
+208294,java,python,sql,,,Software Developer
+202983,android,github,sqlite,java,android-studio,Android Developer
+182888,c++,simulation,real-time,parallel-processing,,Software Developer
+167786,python,numpy,qt,qgraphicsview,pyqtgraph,Python Developer
+208638,python,lifecycle,modeling,uml,oop,Data Scientist
+208534,testing,qa,jira,json,sql,Quality Assurance Analyst 
+208691,togaf,archimate,,,,Data Architect
+131786,java,hadoop,distributed-system,,,Data Engineer
+141040,salesforce,,,,,Salesforce Developer
+159279,salesforce,salesforce-lightning,salesforce-service-cloud,javascript,,Salesforce Developer
+151717,machine-learning,artificial-intelligence,r,python,c++,Machine Learning Engineer
+156598,qa,testing,python,database,c++,Quality Assurance Analyst 
+143628,java,solr,machine-learning,full-text-search,agile,Software Developer
+157433,java,javascript,html,sql,ajax,Salesforce Developer
+158698,reactjs,html5,css3,git,d3.js,Front End Developer
+158421,r,machine-learning,data,ml,,Machine Learning Engineer
+150793,reactjs,javascript,user-experience,redux,react-redux,Artificial Intelligence
+129164,machine-learning,bigdata,saas,architecture,devops,DevOps Engineer
+156926,python,r,sql,pandas,mysql,Data Scientist
+157729,c#,c++,python,sql,cython,Software Developer
+157215,java,scala,cassandra,rabbitmq,apache-spark,Data Engineer
+154342,python,amazon-web-services,flask,docker,tensorflow,Python Developer
+157386,angular,rest,java,artificial-intelligence,computer-science,Software Developer
+157731,wpf,c#,3d,c,python,Software Developer
+152323,scala,python,sql,,,Data Analyst
+153325,c++,python,machine-learning,deep-learning,,Software Developer
+158895,cloud,python,c++,c,amazon-web-services,Machine Learning Engineer
+157919,windows,powershell,exchange-server,qa,,Quality Assurance Analyst 
+137957,scala,java,aws,hadoop,soa,Backend Developer
+157757,reactjs,php,zend-framework,redux,backend,Software Developer
+153577,reactjs,javascript,data-visualization,linux,osx,Front End Developer
+158318,python,r,amazon-web-services,statistics,web-scraping,Data Scientist
+137309,algorithm,c++,python,machine-learning,math,Machine Learning Engineer
+157307,bigdata,scala,java,java-8,,Backend Developer
+148482,salesforce,,,,,Salesforce Developer
+157431,bigdata,hadoop,apache-spark,qa,python,Quality Assurance Analyst 
+158345,c++,machine-learning,lua,python,physx,Software Developer
+159502,product,owner,,,,Data Scientist
+163966,sql,json,shell,sas,r,Data Engineer
+159413,python,r,amazon-web-services,machine-learning,sql,Data Scientist
+155116,reactjs,d3.js,amazon-web-services,css,javascript,Software Developer
+154327,sql,python,amazon-web-services,bigdata,,Software Developer
+136203,python,bigdata,amazon-web-services,,,Data Architect
+157816,amazon-web-services,amazon-s3,emr,lambda,apache-spark,Data Engineer
+148122,haskell,amazon-web-services,apache-spark,scala,clojure,Backend Developer
+146888,amazon-web-services,hadoop,apache,apache-spark,,Cloud Engineer
+154876,java,python,r,data-science,amazon-web-services,Data Scientist
+38375,python,linux,aws,computer-vision,image-processing,Software Developer
+149922,python,aws,postgresql,rest,scala,Python Developer
+146971,scala,spark,flink,kafka,aws,Data Engineer
+109401,python,knockout.js,pandas,aws,webdev,Full Stack Developer 
+138907,java,spring,amazon-web-services,mysql,machine-learning,Full Stack Developer 
+155383,python,amazon-web-services,distributed-computing,devops,sysadmin,Artificial Intelligence
+147525,scala,apache-spark,amazon-web-services,data-warehouse,,Data Engineer
+153258,javascript,java,amazon-web-services,continuous-integration,bigdata,Software Developer
+156607,node.js,jquery,amazon-web-services,dynamics-crm,salesforce,Software Developer
+156729,rest,amazon-web-services,google-cloud-platform,scala,rust,Artificial Intelligence
+141056,java,python,azure,aws,shell,Cloud Engineer
+138436,hadoop,python,amazon-web-services,docker,chef,DevOps Engineer
+154147,php,mysql,d3.js,drupal,,Full Stack Developer 
+157631,java,hadoop,mapreduce,apache-spark,,Java Developer
+150908,hadoop,apache-spark,bigdata,scala,hive,Software Developer
+158464,machine-learning,python,pandas,,,Machine Learning Engineer
+154313,sql,business-intelligence,r,google-analytics,tableau,Data Scientist
+157162,python,numpy,hadoop,postgresql,go,Machine Learning Engineer
+157113,hadoop,maven,devops,docker,linux,DevOps Engineer
+142456,machine-learning,analytics,ibm-watson-cognitive,azure,data-science,Machine Learning Engineer
+154288,linux,cloud,saas,sysadmin,devops,Artificial Intelligence
+144078,reactjs,d3.js,typescript,,,Software Developer
+157055,node.js,agile,javascript,,,Artificial Intelligence
+147022,haskell,neo4j,machine-learning,functional-programming,scala,Software Developer
+158584,python,r,hadoop,sql,nosql,Data Scientist
+133422,c#,asp.net,python,machine-learning,nlp,Machine Learning Engineer
+158569,machine-learning,classification,malware-detection,ads,,Machine Learning Engineer
+157600,python,r,machine-learning,hadoop,,Data Scientist
+157953,apache-spark,python,hadoop,r,tensorflow,Data Scientist
+158431,salesforce,force.com,,,,Salesforce Developer
+151487,druid,apache-kafka,java,hadoop,,Software Developer
+156272,.net,database,sql,data-modeling,javascript,Software Developer
+136963,java,bigdata,math,database,,Big Data Developer
+158164,cloud,machine-learning,python,linux,unix,Data Scientist
+156680,hadoop,java,apache-flink,hdfs,hbase,Java Developer
+149109,java,hadoop,linux,,,Java Developer
+143050,hadoop,oop,bigdata,,,Software Developer
+157372,reactjs,php,microservices,javascript,tensorflow,Software Developer
+140431,java,sql,nosql,,,Data Scientist
+137177,image-processing,python,cloud,data-visualization,javascript,Software Developer
+154326,r,machine-learning,sql,python,,Data Scientist
+158297,java,sql,html,css,java-ee,Data Analyst
+151753,data,data-science,python,statistics,,Data Scientist
+156657,data-science,spark-streaming,hadoop,,,Big Data Developer
+157352,javascript,frontend,reactjs,angularjs,python,Front End Developer
+158408,t-sql,tableau,ms-excel,r-studio,data-modelling,Data Analyst
+146393,r,machine-learning,sql,,,Data Scientist
+159061,t-sql,tableau,ms-excel,data-warehouse,sysadmin,Data Analyst
+155314,java,java-ee,unit-testing,enterprise-architect,,Software Developer
+147647,mtm,agile,testing,.net,,Quality Assurance Analyst 
+154331,kubernetes,google-bigquery,machine-learning,google-cloud-storage,google-cloud-platform,Cloud Engineer
+121332,java,concurrency,sql,cassandra,python,Java Developer
+157200,octave,sql,google-analytics,matlab,r,Data Analyst
+133487,ajax,salesforce,apex,java,javascript,Salesforce Developer
+158666,sql,.net,soa,nosql,artificial-intelligence,Software Developer
+148738,tableau,sql,r,javascript,tsql,Data Analyst
+144619,java,hadoop,rx-java,cassandra,reactive-programming,Java Developer
+156088,qa,javascript,web-services,,,Quality Assurance Analyst 
+157836,apex-code,apex,salesforce-lightning,javascript,,Salesforce Developer
+145056,java,mariadb,excel-vba,intellij-idea,ms-access,Software Developer
+142779,c++,python,linux,machine-learning,deep-learning,Machine Learning Engineer
+150216,c++,java,c,machine-learning,,Data Scientist
+125013,python,c,pandas,postgresql,linux,Software Developer
+146556,python,numpy,scipy,enthought,,Software Developer
+153706,java,c++,python,distributed-computing,,Artificial Intelligence
+133009,java,c++,python,javascript,machine-learning,Software Developer
+145381,php,java,c#,c++,,Machine Learning Engineer
+152737,cloud,javascript,salesforce,business-logic,integration,Cloud Engineer
+148853,python,c++,web-services,numpy,javascript,Software Developer
+156769,scrum,agile,clojure,salesforce,apex-code,Salesforce Developer
+142804,java,c++,python,go,docker,Software Developer
+136180,scala,apache-spark,apache-kafka,hadoop,cassandra,Data Engineer
+133112,java,scala,hadoop,apache-spark,apache-kafka,Java Developer
+142811,java,oop,javascript,http,json,Full Stack Developer 
+155522,apache,java,hadoop,python,apache-spark,Backend Developer
+154252,java,linux,hadoop,sql,distributed-system,Cloud Engineer
+153564,apache-spark,cloud,java,,,Data Engineer
+206975,java,java-ee,html,spring,css,Java Developer
+156732,reactjs,redux,react-redux,javascript,,Artificial Intelligence
+138291,javascript,reactjs,single-page-application,d3.js,angularjs,Front End Developer
+154727,r,machine-learning,python,sql,,Data Scientist
+152971,c++,python,qt,opengl,openscenegraph,Software Developer
+158588,python,machine-learning,sql,hadoop,apache-spark,Data Scientist
+157834,apex,apex-code,salesforce-lightning,,,Salesforce Developer
+152022,c++,machine-learning,qt,python,linux,Software Developer
+146492,tensorflow,machine-learning,classification,,,Machine Learning Engineer
+139555,hadoop,apache,bigdata,,,Big Data Developer
+153217,c++,algorithm,machine-learning,,,Software Developer
+152877,web-services,algorithm,machine-learning,distributed-system,go,Backend Developer
+155360,pandas,d3.js,python,javascript,sql,Data Analyst
+156489,qa,testing,automated-tests,,,Quality Assurance Analyst 
+157057,c#,.net,tdd,cleancode,,Software Developer
+157092,c#,.net,tdd,cleancode,,Software Developer
+70731,java,spring,agile,lucene,javascript,Java Developer
+151236,apache,java,scala,python,mapreduce,Data Engineer
+150539,salesforce,apex,salesforce-lightning,javascript,,Salesforce Developer
+151234,machine-learning,python,statistics,r,,Data Scientist
+149597,python,tensorflow,google-cloud-platform,docker,numpy,Machine Learning Engineer
+153619,java,python,sql,jenkins,ansible,Data Engineer
+158347,scala,nlp,java,r,,Data Scientist
+153224,machinelearning,apache-spark,scala,java,python,Data Scientist
+142627,c++,computer-vision,slam,robotics,point-clouds,Software Developer
+152561,apache-spark,scala,java,,,Software Developer
+157794,r,python,java,c#,scala,Data Scientist
+157252,spark,kafka,cassandra,scala,python,Data Engineer
+139708,python,sql,deep-learning,,,Data Scientist
+153692,python,sql,django,apache-spark,cassandra,Python Developer
+141951,statistics,sql,machine-learning,data-science,,Data Scientist
+158750,php,git,lamp,sql,,Data Engineer
+153095,java,sql,spring,hadoop,,Java Developer
+157219,sql,http,python,,,Data Scientist
+156049,python,apache-spark,r,rstudio,sql,Data Scientist
+140936,machine-learning,sql,data-mining,hadoop,python,Data Scientist
+155698,hadoop,python,bigdata,java,sql,Data Engineer
+93719,sql,python,java,perl,c++,Data Engineer
+150599,sql,apache-kafka,amazon-kinesis,r,apache-spark,Data Engineer
+146108,java,c++,python,,,Data Engineer
+157792,bigdata,solution,,,,Big Data Developer
+158103,hadoop,r,machine-learning,apache-spark,python,Data Scientist
+155085,r,machine-learning,python,,,Data Scientist
+153707,java,salesforce,apex,soa,c#,Salesforce Developer
+142236,java,javascript,ruby-on-rails,scrum,leaflet,Software Developer
+140581,.net,uipath,c#,,,Artificial Intelligence
+152659,java-8,lucene,,,,Java Developer
+139841,r,sas,matlab,scala,c#,Data Scientist
+154805,java,c++,python,javascript,apache-spark,Software Developer
+156372,php,salesforce,,,,Software Developer
+141368,java,hadoop,scala,apache-spark,,Software Developer
+150962,nlp,machine-learning,deep-learning,scala,neural-network,Data Scientist
+135756,ruby-on-rails,ruby,,,,Backend Developer
+154677,c++,java,machine-learning,bigdata,,Software Developer
+210930,hadoop,python,machine-learning,amazon-s3,amazon-emr,Data Engineer
+156591,api,user-interface,salesforce,apex,visualforce,Salesforce Developer
+158296,api,user-interface,salesforce,apex,visualforce,Salesforce Developer
+150909,hadoop,apache-spark,bigdata,apache-kafka,hive,Software Developer
+139417,data,scientist,,,,Data Scientist
+146553,java,apache-spark,apache-kafka,jquery,,Java Developer
+142525,java,angularjs,nodejs,svg,d3.js,Full Stack Developer 
+142066,java,hadoop,tomcat,apache-kafka,apache-flink,Software Developer
+157788,c++,python,machine-learning,deep-learning,data-science,Machine Learning Engineer
+156988,apache-spark,java,python,apache-kafka,redis,Software Developer
+130257,ruby-on-rails,scala,bigdata,go,hadoop,Data Engineer
+138434,testing,java,hadoop,ruby,scala,Data Engineer

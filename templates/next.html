@@ -1,0 +1,217 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Career Consultancy</title>
+  <meta charset="utf-8">
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+   <link rel="stylesheet" href="{{url_for ('static',filename='css/style3.css')}}">
+   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+  <!-- <style>
+    body{
+      background-image: url('img.jpg');
+      background-size: cover;
+    }
+  </style> -->
+  <style>
+    body{
+        margin: 0;
+        padding: 0;
+    }
+   body:before{
+        content: '';
+        position: fixed;
+        width: 100vw;
+        height: 100vh;
+        /* background-image: url("4.jpeg"); */
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        -webkit-filter: blur(10px);
+        -moz-filter: blur(10px);
+        -o-filter: blur(10px);
+        -ms-filter: blur(10px);
+        filter: blur(10px);
+    }
+    .contact-form
+    {
+        position: absolute;
+        margin-top: 50%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        width: 400px;
+        height: 500px;
+        padding: 80px 40px;
+        box-sizing: border-box;
+        background: rgba(0,0,0,.5);
+    }
+    .avatar {
+        position: absolute;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        overflow: hidden;
+        top: calc(-80px/2);
+        left: calc(50% - 40px);
+    }
+    .contact-form h2 {
+        margin: 0;
+        padding: 0 0 20px;
+        color: #fff;
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .contact-form p
+    {
+        margin: 0;
+        padding: 0;
+        font-weight: bold;
+        color: #fff;
+    }
+    .contact-form input
+    {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .contact-form input[type="text"],
+    /* .contact-form input[type="password"]
+    {
+        border: none;
+        border-bottom: 1px solid #fff;
+        background: transparent;
+        outline: none;
+        height: 40px;
+        color: #fff;
+        font-size: 16px;
+    } */
+    .contact-form input[type="submit"] {
+        height: 30px;
+        color: #fff;
+        font-size: 15px;
+        background: red;
+        cursor: pointer;
+        border-radius: 25px;
+        border: none;
+        outline: none;
+        margin-top: 15%;
+    }
+    .contact-form a
+    {
+        color: #fff;
+        font-size: 14px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    input[type="checkbox"] {
+        width: 20%;
+    }
+    #overlay {
+  position:fixed;
+  display: none;
+  width: 50%;
+  height: 50%;
+  top: 25%;
+  left: 25%;
+  right: 25%;
+  bottom: 25%;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 2;
+  cursor: pointer;
+}
+
+#text{
+  text-align: center;;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 50px;
+  color: white;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+}
+</style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a href="/" class="navbar-brand" ><strong>Career Consultancy</strong></a>
+    </div>
+    <ul class="nav navbar-nav">
+      <!-- <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li> -->
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <!-- <a href="mailto:shinu.sistec@gmail.com" class="booking"><font face="times">E-mail: shinu.sistec@gmail.com</font></a> -->
+      <li><a href="mailto:shinu.sistec@gmail.com"><span class="glyphicon glyphicon-hand-right"></span>  Mail Us</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-comment"></span> Feedback</a></li>
+    </ul>
+  </div>
+</nav>
+  
+<!-- <div class="container">
+  <h3>Basic Navbar Example</h3>
+  <p>A navigation bar is a navigation header that is placed at the top of the page.</p>
+</div> -->
+<br><br>
+<div class="row">
+    <div class="col-sm-4 col-md-4 col-lg-4"  style="color: orangered">
+      <!-- <style>
+        img{
+          display: block;
+        margin-left: auto;
+        margin-right: auto;
+        }
+      </style> -->
+      <!-- <img src="logo.png" width="100px" height="65px" ><br> -->
+      <br><br>
+      <p><span class="glyphicon glyphicon-chevron-right"></span> <b>This project aims to provide the user with the best career which they can pursue based on their skills.
+      <p><span class="glyphicon glyphicon-chevron-right"></span> <b>The user would be providing his/her resume/cover letter.</p>
+      <p><span class="glyphicon glyphicon-chevron-right"></span> <b>The skills from the resume/cover letter would be extracted(parsed) and on the basis of the skills, the best career would be recommended in response.</p>
+      <p><span class="glyphicon glyphicon-chevron-right"></span> <b>The project would help the user to get the perfect-fitted career according to their skill quotient.</p>
+
+    </div>
+    <div class="col-sm-4 col-md-4 col-lg-4" style="color:white;">
+      <!-- <h2>Under Construction......</h2> -->
+
+    </div>
+    <div class="col-sm-4 col-md-4 col-lg-4" style="color:orange;">
+      <div class="contact-form">
+        <!-- <img src="2.jpg" class="avatar"> -->
+        <h2>Upload PDF</h2>
+        <form action = "http://localhost:5000/uploader" method = "POST" 
+        enctype = "multipart/form-data">
+            <p>Name</p>
+            <input type="text" name="name" placeholder="Enter Name">
+            
+            <input type = "file" name = "file" />
+            <input type="submit" name="" value="Upload">
+        </form>
+    </div>
+       <!-- <form action = "http://localhost:5000/uploader" method = "POST" 
+         enctype = "multipart/form-data">
+         <input type = "file" name = "file" />
+         <input type = "submit"/>
+      </form> -->
+    </div>
+  </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+</body>
+</html>
+
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+</body>
+</html>
